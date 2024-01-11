@@ -2,6 +2,6 @@ This is a C++ program to play Crazy Eights.
 Crazy Eights is a card game for two players. Seven cards are dealt to each player. The remaining cards of the deck are placed face down at the center of the tables as the stock pile. The top card is turned face up to start the game as the first card in the discard pile.
 Each player discard by matching rank or suit with the top card on the pile. A player can play any 8 at any time, which allows them to declare the suit that the next player is to play, and the next player must then follow the named suit or play another 8. If a player is unable to play, that player have to draw cards from the stock pile until a play can be made or until the stock pile is exhausted. 
 
-Use commend make to compile the program.
-Use the below commend to run the program.
+Use command make to compile the program.
+Use the below command to run the program.
     ./crazyeights
